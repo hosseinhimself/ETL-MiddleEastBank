@@ -40,7 +40,3 @@ python ETL.py
 ```
 
 This command will extract data from the Fipiran API, transform it, and load it into the specified PostgreSQL database.
-
---- 
-
-This expanded description provides a comprehensive overview of the project and outlines the expectations for the Data Engineer role within the context of the given technical task.
