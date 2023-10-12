@@ -1,7 +1,7 @@
 
 # ETL-MiddleEastBank
 
-This technical task, named ETL-MiddleEastBank, is designed for the position of a Data Engineer at a Middle East bank. The project focuses on the Extract, Transform, Load (ETL) process for financial data from the Fipiran API into a PostgreSQL database. The project includes three main Python scripts: `extract.py`, `transform.py`, and `load.py`, along with an orchestrating script, `ETL.py`.
+This technical task, named ETL-MiddleEastBank, was done for the position of a Data Engineer at a Middle East bank. The project focuses on the Extract, Transform, Load (ETL) process for financial data from the Fipiran API into a PostgreSQL database. The project includes three main Python scripts: `extract.py`, `transform.py`, and `load.py`, along with an orchestrating script, `ETL.py`.
 
 ## Project Components
 
